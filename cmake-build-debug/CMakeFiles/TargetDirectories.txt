@@ -1,0 +1,3 @@
+C:/Users/masri/CLionProjects/Computer Organization/cmake-build-debug/CMakeFiles/Computer_Organization.dir
+C:/Users/masri/CLionProjects/Computer Organization/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/masri/CLionProjects/Computer Organization/cmake-build-debug/CMakeFiles/rebuild_cache.dir
