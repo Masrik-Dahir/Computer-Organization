@@ -1,0 +1,6 @@
+0011 000 000 000000            ;start at location x3000
+0010 001 000 011110            ;load memory location x301f into LD
+1001 001 001 111111            ;take the not of R1 and store in R1
+0001 001 001 100001            ;Add R1 with immediate value of 1 and store in R1
+0011 001 000 011010            ;Store the value in R1 into mem location x301e
+1111 000 000 100101            ;HALT
